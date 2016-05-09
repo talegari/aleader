@@ -1,4 +1,5 @@
-# streaming leader algorithm ----
+# leader
+# a streaming leader algorithm implementation in R ----
 #
 # Description ----
 #
