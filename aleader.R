@@ -1,6 +1,12 @@
 # leader
-#
 # a streaming leader algorithm implementation in R ----
+#
+# license ----
+#
+# GNU Affero General Public License v3.0
+# http://www.gnu.org/licenses/agpl-3.0.txt
+#
+# hosted at : https://gist.github.com/talegari
 #
 # Description ----
 #
