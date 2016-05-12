@@ -1,5 +1,5 @@
 ## *aleader*
-> * a streaming `leader-follower` algorithm implementation in [R](http://r-project.org)
+> * A streaming `leader-follower` algorithm implementation in [R](http://r-project.org)
 > * To facilitate clustering large datasets
 > * License: [GNU Affero General Public License v3.0](http://www.gnu.org/licenses/agpl-3.0.txt)
 > * Hosted at: https://gist.github.com/talegari
@@ -19,7 +19,7 @@
 
 * A file is read via a file connection one line at a time. Hence, the whole data is **not** loaded at a time into RAM.
 * We assume that each line forms a numeric vector(array) of same length.
-* The cluster number is written a to a file as soon as a line is processed (A different process may read the file and perhaps plot it).
+* The cluster number is written to a file as soon as a line is processed (A different process may read the file and perhaps plot it).
 * Once all the lines are processed, a summary is written to the screen containing :
 	* `number_of_clusters`
 	* `centroids`
