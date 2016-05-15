@@ -1,8 +1,8 @@
 ## *aleader*
 > * A streaming `leader-follower` algorithm implementation in [R](http://r-project.org)
-> * To facilitate clustering large datasets
-> * License: [GNU Affero General Public License v3.0](http://www.gnu.org/licenses/agpl-3.0.txt)
-> * Hosted at: https://gist.github.com/talegari
+> * To facilitate clustering large datasets without loading them into primary memory(RAM)
+> * **License**: [GNU Affero General Public License v3.0](http://www.gnu.org/licenses/agpl-3.0.txt)
+> * Hosted at: https://github.com/talegari/aleader
 
 #### Algorithm
 
